@@ -1,0 +1,2 @@
+# bugtracker
+ElasTest bug tracker
